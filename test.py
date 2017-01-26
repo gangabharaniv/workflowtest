@@ -1,8 +1,8 @@
 
 
-def main1():
+def main2():
     print('bingo')
 
 
 if __name__ == '__main__':
-    main1()
+    main2()
